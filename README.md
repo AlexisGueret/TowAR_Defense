@@ -7,3 +7,5 @@ The goal of the game is to survive waves of enemies by placing defense towers an
 
 You will find the trailer here : 
 https://www.youtube.com/watch?v=ig10-YBgPVY&ab_channel=AlexisGueret
+
+I am very sorry, as the course is in french, all the documents are in french.
