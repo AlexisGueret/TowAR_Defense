@@ -5,5 +5,5 @@ This project is an augmented reality tower defense game done with Unity and Blen
 It is playable on HoloLens.
 The goal of the game is to survive waves of enemies by placing defense towers and throwing fireballs.
 
-You will find the trailer below : 
+You will find the trailer here : 
 https://www.youtube.com/watch?v=ig10-YBgPVY&ab_channel=AlexisGueret
